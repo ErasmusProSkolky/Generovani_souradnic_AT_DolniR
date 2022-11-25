@@ -5,3 +5,5 @@ Generování souřadnic
      vstup: NOE_Kindergarten.txt (adresy školek)
 
      výstup: AT_NOE.csv (adresy školek obohacené o souřadnice), nezname_adresy_AT_NOE.csv (chybové adresy bez souřadnic)
+     
+     Chybové adresy byly následně obohaceny o souřadnice díky https://www.gpsvisualizer.com/geocoder/.
