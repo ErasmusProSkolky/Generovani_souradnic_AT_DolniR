@@ -1,0 +1,1 @@
+# Generovani_souradnic_AT_DolniR
